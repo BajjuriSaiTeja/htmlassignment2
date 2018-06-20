@@ -1,31 +1,77 @@
-.wrap{height:100%;padding-bottom:10px;}
-  header{height:20px;}
-  padding:5px;
+.wrap
+{
+    height:100%;
+    padding-bottom:10px;
+}
+  header
+  {
+    height:20px;
   }
-nav{
+nav
+{
   padding:5px;
-  
-  }
-li{
+}
+li
+{
   display:inline;
   padding:20px
-  }
-.hero{
-  box-sizing:border-box;margin-top:50px;margin-bottom:25px;background-color:lightblue;width:100%;height:150px;}
-.three{padding-top:100px;padding-bottom:50px;background-color:orange;height:200px}
-.three_1{padding-right:20px;}
-.three_2{height:200px;}
-.three_3{height:200px;}
-.two{padding-top:10px;height:100px;}
-ul{display:inline;}
-.grid_6{padding:0 0 0 0;}
+}
+.hero
+{
+  box-sizing:border-box;
+  margin-top:50px;
+  margin-bottom:25px;
+  background-color:lightblue;
+  width:100%;
+  height:150px;
+}
+.three
+{
+  padding-top:100px;
+  padding-bottom:50px;
+  background-color:orange;
+  height:200px
+}
+.three_1
+{
+  padding-right:20px;
+}
+.three_2
+{
+  height:200px;
+}
+.three_3
+{
+  height:200px;
+}
+.two
+{
+  padding-top:10px;
+  height:100px;
+}
+ul
+{
+  display:inline;
+}
+.grid_6
+{
+  padding:0 0 0 0;
+}
 .sticky {
   background-color:white;
   position: fixed;
   top: 0;
 }
-section{border:solid 1px black}
-.section{border:solid 1px black}
-footer {background-color:gray;
-    clear: both;
+section
+{
+  border:solid 1px black
+}
+.section
+{
+  border:solid 1px black
+}
+footer
+{
+  background-color:gray;
+  clear: both;
 }
